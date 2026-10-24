@@ -141,3 +141,11 @@ projects/*/solution/demo-output/
 .pt
 .pth
 .safetensors
+
+*.bin
+*.safetensors
+*.pt
+*.onnx
+data/*.parquet
+data/*.csv
+models/
